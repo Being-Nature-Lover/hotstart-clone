@@ -1,0 +1,29 @@
+a{
+  color: white;
+}
+
+#search{
+  border: none;
+  background: transparent;
+}
+.carousel-item img{
+  height: 22rem;
+}
+
+#logo{
+  border-radius: 5px;
+}
+
+.carousel-item{
+  border-radius: 15px;
+}
+
+hr{
+  height: 5px;
+  color: grey;
+}
+
+body , .card{
+  color: white;
+  background-color: #264653;
+}
